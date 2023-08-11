@@ -1,0 +1,17 @@
+*  Steps for creating a project
+
+1> create virtual env
+
+2> activate env
+ 
+3> install django
+
+4> create project
+
+5> create app
+
+6> database setup
+
+7> runserver
+
+8> create superuser for admin penal
